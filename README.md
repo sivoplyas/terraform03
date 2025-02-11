@@ -1,14 +1,14 @@
-# Чек-лист готовности
-![zadanie-01](https://github.com/user-attachments/assets/f8721e19-cef1-40eb-9e9b-efead511a97b)
-![zadanie-02](https://github.com/user-attachments/assets/92edd110-68a4-4885-9251-0825a77143c0)
-
 # Задание 1
-![zadanie-10](https://github.com/user-attachments/assets/938d8285-db18-48d5-a985-377407f34831)
-![zadanie-11](https://github.com/user-attachments/assets/0b0eff86-387b-4c6a-bc65-f326d3a43b39)
-![zadanie-12](https://github.com/user-attachments/assets/5c6090aa-ecc4-4e64-b72c-b9f987ef2db2)
-![zadanie-13](https://github.com/user-attachments/assets/4cd13414-3a59-44f5-8651-4a6258a82f47)
-![zadanie-14](https://github.com/user-attachments/assets/734f03f4-3cde-42af-9509-505e6b14910f)
-![zadanie-15](https://github.com/user-attachments/assets/338d7cf4-4533-4ec5-b88a-408ad449e4ae)
-![zadanie-16](https://github.com/user-attachments/assets/dccc1b7a-2d74-4738-ae56-3461cf0402e4)
-![zadanie-17](https://github.com/user-attachments/assets/bf3422b9-2ac9-43e9-999b-95301ada9a16)
-[zadanie-18.txt](https://github.com/user-attachments/files/18758654/zadanie-18.txt)
+![10](https://github.com/user-attachments/assets/49900e5f-532b-4ba3-a460-f0c4fff763c3)
+![11](https://github.com/user-attachments/assets/ec6af581-f1a9-4ad9-b090-039cca883656)
+![12](https://github.com/user-attachments/assets/b0a76cd1-4cd1-4a39-bc6c-8142818ab953)
+![13](https://github.com/user-attachments/assets/c0480da8-8016-4dd7-8c93-a39bb73d18c8)
+![14](https://github.com/user-attachments/assets/c56980ca-6d31-4338-a73b-cfb1564f1628)
+
+# Задание 2
+![20](https://github.com/user-attachments/assets/5db0db33-3a74-432b-adf1-9c9456af308e)
+![21](https://github.com/user-attachments/assets/fd225f8a-9353-4aef-a1b0-5880960e624f)
+
+# Задание 3
+![30](https://github.com/user-attachments/assets/4d624eb5-d29b-4c39-85ee-43daef5e4875)
+![31](https://github.com/user-attachments/assets/f608932b-8cb8-4818-b89e-2de0ddab3cb5)
