@@ -12,3 +12,7 @@
 # Задание 3
 ![30](https://github.com/user-attachments/assets/4d624eb5-d29b-4c39-85ee-43daef5e4875)
 ![31](https://github.com/user-attachments/assets/f608932b-8cb8-4818-b89e-2de0ddab3cb5)
+
+# Задание 4
+![Скриншот 27-02-2025 172216](https://github.com/user-attachments/assets/2805ab64-fd14-48c2-90d6-6d50979d71d4)
+![Скриншот 27-02-2025 172118](https://github.com/user-attachments/assets/4b0ec5a3-8159-4858-a435-07d6738797bf)
